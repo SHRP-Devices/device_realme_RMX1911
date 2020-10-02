@@ -25,6 +25,9 @@ SHRP_DARK := true
 SHRP_EDL_MODE := 0
 SHRP_FLASH := 1
 
+#Official
+SHRP_OFFICIAL := true
+
 # Architecture
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-a
